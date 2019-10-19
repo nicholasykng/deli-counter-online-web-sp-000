@@ -8,3 +8,4 @@ def line(katz_deli)
   end
   puts "The line is currently: #{new.join(" ")}"
 end
+end
