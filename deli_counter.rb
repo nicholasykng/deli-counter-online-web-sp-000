@@ -1,3 +1,4 @@
+katz_deli = []
 def line(deli)
   new = []
   if deli.length == 0
