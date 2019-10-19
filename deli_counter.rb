@@ -7,8 +7,4 @@ def line(katz_deli)
       new.push("#{index}. #{name}")
   end
   puts "The line is currently: #{new.join(" ")}"
-
 end
-
-
-
